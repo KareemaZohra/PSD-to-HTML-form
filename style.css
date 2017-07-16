@@ -1,0 +1,25 @@
+body{
+    color: black;
+}
+table{
+    height: 100% ;
+    width: 75%;
+    margin: 0 auto;
+}
+
+th{text-align: left}
+
+div{
+    width: 75%;
+    margin: 0 auto;
+}
+
+tr, td{
+    margin: 0px;
+}
+
+input{
+    width: 100%;
+    border: none;
+    background-color: aliceblue;
+}
